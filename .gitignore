@@ -1,0 +1,13 @@
+# Node modules
+node_modules
+
+# File build
+bfs
+
+# File config
+package.json
+package-lock.json
+
+# Reference
+bfs.cpp
+reference.js
